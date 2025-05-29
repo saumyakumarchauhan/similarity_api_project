@@ -1,0 +1,7 @@
+asyncio
+fastapi
+uvicorn[standard]
+httpx
+numpy
+pydantic
+os
